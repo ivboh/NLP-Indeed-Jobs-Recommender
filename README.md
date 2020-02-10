@@ -64,7 +64,7 @@ The topics from NMF can idenfity
 
 0. Compute the cosine similarity of the vecotor of resume and of each job description.
 
-1.
+1. Return the job listings of the highest cosine siimlarity scores.
 
 
 
